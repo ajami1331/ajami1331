@@ -1,3 +1,3 @@
-# Master Procrastinator
-# Software Engineer
-# https://araf.aljami.me/
+- Master Procrastinator
+- Software Engineer
+- https://araf.aljami.me/
